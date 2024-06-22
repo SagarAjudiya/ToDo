@@ -58,7 +58,7 @@
                                                 <rect key="frame" x="0.0" y="0.0" width="18" height="48"/>
                                                 <color key="tintColor" name="appBlue"/>
                                             </imageView>
-                                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6Rn-ej-KCT">
+                                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Search here.." textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6Rn-ej-KCT">
                                                 <rect key="frame" x="28" y="0.0" width="307" height="48"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="48" id="vgz-c7-kiz"/>
@@ -214,7 +214,7 @@
             <color red="0.3449999988079071" green="0.33700001239776611" blue="0.83899998664855957" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="appBlue20">
-            <color red="0.3449999988079071" green="0.33700001239776611" blue="0.83899998664855957" alpha="0.20000000298023224" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.34117650985717773" green="0.3333333432674408" blue="0.83529412746429443" alpha="0.20000000298023224" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
